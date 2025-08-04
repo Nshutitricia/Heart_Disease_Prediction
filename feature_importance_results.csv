@@ -1,0 +1,16 @@
+feature,importance
+thal,0.30050263
+ca,0.10797006
+cp,0.083899245
+age_risk_category_High_Risk,0.07528857
+exang,0.057882152
+multiple_risk_factors,0.04786975
+sex,0.04465229
+hr_reserve,0.044572946
+cv_risk_score,0.04179951
+slope,0.041453738
+oldpeak,0.03756494
+age_risk_category_Medium_Risk,0.037006013
+bp_age_interaction,0.027608996
+age,0.026882118
+thalach,0.02504706
