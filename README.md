@@ -164,6 +164,9 @@ The next phase involves:
    ```
 2. Access PowerBi  : [powerBi File](/heart_disease.pbix)
 
+![PowerBI](/screenshots/executive_Summary.png)
+Refer to the PDF File for more visuals.
+
 ## Future Work
 
 -Develop and optimize machine learning models for heart disease classification.
