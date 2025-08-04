@@ -164,7 +164,7 @@ The next phase involves:
    ```
 2. Access PowerBi  : [powerBi File](/heart_disease.pbix)
 
-![PowerBI](/screenshots/executive_Summary.png)
+![PowerBI](/screenshots/executive_summary.png)
 Refer to the PDF File for more visuals.
 
 ## Future Work
